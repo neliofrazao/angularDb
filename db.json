@@ -91,6 +91,118 @@
         "length": 1,
         "bandId": 1,
         "albumId": 2        
+      },
+      {
+        "id": 5,
+        "name": "Nome do Música 1",
+        "length": 5,
+        "bandId": 2,
+        "albumId": 1        
+      },
+      {
+        "id": 6,
+        "name": "Nome do Música 2",
+        "length": 5,
+        "bandId": 2,
+        "albumId": 1        
+      },
+      {
+        "id": 7,
+        "name": "Nome do Música 1",
+        "length": 5,
+        "bandId": 2,
+        "albumId": 2        
+      },
+      {
+        "id": 8,
+        "name": "Nome do Música 2",
+        "length": 2,
+        "bandId": 3,
+        "albumId": 2        
+      },
+      {
+        "id": 9,
+        "name": "Nome do Música 1",
+        "length": 2,
+        "bandId": 4,
+        "albumId": 1        
+      },
+      {
+        "id": 10,
+        "name": "Nome do Música 2",
+        "length": 2,
+        "bandId": 4,
+        "albumId": 1        
+      },
+      {
+        "id": 11,
+        "name": "Nome do Música 1",
+        "length": 2,
+        "bandId": 4,
+        "albumId": 2
+      },
+      {
+        "id": 12,
+        "name": "Nome do Música 2",
+        "length": 2,
+        "bandId": 4,
+        "albumId": 2
+      },
+      {
+        "id": 13,
+        "name": "Nome do Música 1",
+        "length": 2,
+        "bandId": 5,
+        "albumId": 1
+      },
+      {
+        "id": 14,
+        "name": "Nome do Música 2",
+        "length": 2,
+        "bandId": 5,
+        "albumId": 1
+      },
+      {
+        "id": 15,
+        "name": "Nome do Música 1",
+        "length": 2,
+        "bandId": 5,
+        "albumId": 2
+      },
+      {
+        "id": 16,
+        "name": "Nome do Música 2",
+        "length": 2,
+        "bandId": 5,
+        "albumId": 2
+      },
+      {
+        "id": 17,
+        "name": "Nome do Música 1",
+        "length": 2,
+        "bandId": 6,
+        "albumId": 1
+      },
+      {
+        "id": 18,
+        "name": "Nome do Música 2",
+        "length": 2,
+        "bandId": 6,
+        "albumId": 1
+      },
+      {
+        "id": 19,
+        "name": "Nome do Música 1",
+        "length": 2,
+        "bandId": 6,
+        "albumId": 2
+      },
+      {
+        "id": 20,
+        "name": "Nome do Música 2",
+        "length": 2,
+        "bandId": 6,
+        "albumId": 2
       }   
-  ]  
+  ] 
 }
