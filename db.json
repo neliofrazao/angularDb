@@ -1,11 +1,96 @@
 {
-  "posts": [
+  "bands": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Som Laranja",
+      "category": 1
+    },
+    {
+      "id": 2,
+      "name": "Marca-passo Orgânico",
+      "category": 1
+    },
+    {
+      "id": 3,
+      "name": "Nunca Beijei de Mochila",
+      "category": 2
+    },
+    {
+      "id": 4,
+      "name": "Dezenas de Dúzias",
+      "category": 2
+    },
+    {
+      "id": 5,
+      "name": "Meyota",
+      "category": 3
+    },
+    {
+      "id": 6,
+      "name": "Pradaria Gourmet",
+      "category": 3
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "albums": [
+    {
+      "id": 1,
+      "name": "Nome do álbum 1",
+      "bandId": 3
+    },
+    {
+      "id": 2,
+      "name": "Nome do álbum 2",
+      "bandId": 3
+    },
+    {
+      "id": 3,
+      "name": "Nome do álbum 1",
+      "bandId": 1
+    },
+    {
+      "id": 4,
+      "name": "Nome do álbum 2",
+      "bandId": 1
+    },
+    {
+      "id": 5,
+      "name": "Nome do álbum 1",
+      "bandId": 2
+    },
+    {
+      "id": 6,
+      "name": "Nome do álbum 2",
+      "bandId": 2
+    }
+  ],
+  "music": [
+      {
+        "id": 1,
+        "name": "Nome do Música 1",
+        "length": 2,
+        "bandId": 1,
+        "albumId": 1        
+      },
+      {
+        "id": 2,
+        "name": "Nome do Música 2",
+        "length": 3,
+        "bandId": 1,
+        "albumId": 1        
+      },
+      {
+        "id": 3,
+        "name": "Nome do Música 1",
+        "length": 1,
+        "bandId": 1,
+        "albumId": 2        
+      },
+      {
+        "id": 4,
+        "name": "Nome do Música 2",
+        "length": 1,
+        "bandId": 1,
+        "albumId": 2        
+      }   
+  ]  
 }
