@@ -1,220 +1,268 @@
 {
-  "bands": [
-    {
-      "id": 1,
-      "name": "Som Laranja",
-      "category": 1,
-      "members": ["Roberto Frejat", "Cazuza", "Fernando Magalhães"],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 2,
-      "name": "Marca-passo Orgânico",
-      "category": 1,
-      "members": [ "Herbert Vianna", "Bi Ribeiro", "João Barone"],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 3,
-      "name": "Nunca Beijei de Mochila",
-      "category": 2,
-      "members": ["Nick Mason", "Syd Barrett"],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 4,
-      "name": "Dezenas de Dúzias",
-      "category": 2,
-      "members": [ "David Gilmour", "Roger Waters"],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 5,
-      "name": "Meyota",
-      "category": 3,
-      "members": [ "Lars Ulrich", "Hetfield Gilmour"],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 6,
-      "name": "Pradaria Gourmet",
-      "category": 3,
-      "members": [ "James Hetfield", "Kirk Hammett"],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    }
-  ],
-  "albums": [
-    {
-      "id": 1,
-      "name": "Nome do álbum 1",
-      "bandId": 3
-    },
-    {
-      "id": 2,
-      "name": "Nome do álbum 2",
-      "bandId": 3
-    },
-    {
-      "id": 3,
-      "name": "Nome do álbum 1",
-      "bandId": 1
-    },
-    {
-      "id": 4,
-      "name": "Nome do álbum 2",
-      "bandId": 1
-    },
-    {
-      "id": 5,
-      "name": "Nome do álbum 1",
-      "bandId": 2
-    },
-    {
-      "id": 6,
-      "name": "Nome do álbum 2",
-      "bandId": 2
-    }
-  ],
-  "music": [
-      {
-        "id": 1,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 1,
-        "albumId": 1
-      },
-      {
-        "id": 2,
-        "name": "Nome do Música 2",
-        "length": 3,
-        "bandId": 1,
-        "albumId": 1        
-      },
-      {
-        "id": 3,
-        "name": "Nome do Música 1",
-        "length": 1,
-        "bandId": 1,
-        "albumId": 2        
-      },
-      {
-        "id": 4,
-        "name": "Nome do Música 2",
-        "length": 1,
-        "bandId": 1,
-        "albumId": 2        
-      },
-      {
-        "id": 5,
-        "name": "Nome do Música 1",
-        "length": 5,
-        "bandId": 2,
-        "albumId": 1        
-      },
-      {
-        "id": 6,
-        "name": "Nome do Música 2",
-        "length": 5,
-        "bandId": 2,
-        "albumId": 1        
-      },
-      {
-        "id": 7,
-        "name": "Nome do Música 1",
-        "length": 5,
-        "bandId": 2,
-        "albumId": 2        
-      },
-      {
-        "id": 8,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 3,
-        "albumId": 2        
-      },
-      {
-        "id": 9,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 4,
-        "albumId": 1        
-      },
-      {
-        "id": 10,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 4,
-        "albumId": 1        
-      },
-      {
-        "id": 11,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 4,
-        "albumId": 2
-      },
-      {
-        "id": 12,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 4,
-        "albumId": 2
-      },
-      {
-        "id": 13,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 5,
-        "albumId": 1
-      },
-      {
-        "id": 14,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 5,
-        "albumId": 1
-      },
-      {
-        "id": 15,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 5,
-        "albumId": 2
-      },
-      {
-        "id": 16,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 5,
-        "albumId": 2
-      },
-      {
-        "id": 17,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 6,
-        "albumId": 1
-      },
-      {
-        "id": 18,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 6,
-        "albumId": 1
-      },
-      {
-        "id": 19,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 6,
-        "albumId": 2
-      },
-      {
-        "id": 20,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 6,
-        "albumId": 2
-      }   
-  ] 
+bands: [
+{
+id: 1,
+name: "Som Laranja",
+category: 1,
+members: [
+{
+nome: "Roberto Frejat"
+},
+{
+nome: "Cazuza"
+},
+{
+nome: "Fernando Magalhães"
+}
+],
+info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
+},
+{
+id: 2,
+name: "Marca-passo Orgânico",
+category: 1,
+members: [
+{
+nome: "Herbert Vianna"
+},
+{
+nome: "Bi Ribeiro"
+},
+{
+nome: "João Barone"
+}
+],
+info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
+},
+{
+id: 3,
+name: "Nunca Beijei de Mochila",
+category: 2,
+members: [
+{
+nome: "Nick Mason"
+},
+{
+nome: "Syd Barrett"
+}
+],
+info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
+},
+{
+id: 4,
+name: "Dezenas de Dúzias",
+category: 2,
+members: [
+{
+nome: "David Gilmour"
+},
+{
+nome: "Roger Waters"
+}
+],
+info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
+},
+{
+id: 5,
+name: "Meyota",
+category: 3,
+members: [
+{
+nome: "Lars Ulrich"
+},
+{
+nome: "Lars Ulrich"
+}
+],
+info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
+},
+{
+id: 6,
+name: "Pradaria Gourmet",
+category: 3,
+members: [
+{
+nome: "James Hetfield"
+},
+{
+nome: "Kirk Hammett"
+}
+],
+info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
+}
+],
+albums: [
+{
+id: 1,
+name: "Nome do álbum 1",
+bandId: 3
+},
+{
+id: 2,
+name: "Nome do álbum 2",
+bandId: 3
+},
+{
+id: 3,
+name: "Nome do álbum 1",
+bandId: 1
+},
+{
+id: 4,
+name: "Nome do álbum 2",
+bandId: 1
+},
+{
+id: 5,
+name: "Nome do álbum 1",
+bandId: 2
+},
+{
+id: 6,
+name: "Nome do álbum 2",
+bandId: 2
+}
+],
+music: [
+{
+id: 1,
+name: "Nome do Música 1",
+length: 2,
+bandId: 1,
+albumId: 1
+},
+{
+id: 2,
+name: "Nome do Música 2",
+length: 3,
+bandId: 1,
+albumId: 1
+},
+{
+id: 3,
+name: "Nome do Música 1",
+length: 1,
+bandId: 1,
+albumId: 2
+},
+{
+id: 4,
+name: "Nome do Música 2",
+length: 1,
+bandId: 1,
+albumId: 2
+},
+{
+id: 5,
+name: "Nome do Música 1",
+length: 5,
+bandId: 2,
+albumId: 1
+},
+{
+id: 6,
+name: "Nome do Música 2",
+length: 5,
+bandId: 2,
+albumId: 1
+},
+{
+id: 7,
+name: "Nome do Música 1",
+length: 5,
+bandId: 2,
+albumId: 2
+},
+{
+id: 8,
+name: "Nome do Música 2",
+length: 2,
+bandId: 3,
+albumId: 2
+},
+{
+id: 9,
+name: "Nome do Música 1",
+length: 2,
+bandId: 4,
+albumId: 1
+},
+{
+id: 10,
+name: "Nome do Música 2",
+length: 2,
+bandId: 4,
+albumId: 1
+},
+{
+id: 11,
+name: "Nome do Música 1",
+length: 2,
+bandId: 4,
+albumId: 2
+},
+{
+id: 12,
+name: "Nome do Música 2",
+length: 2,
+bandId: 4,
+albumId: 2
+},
+{
+id: 13,
+name: "Nome do Música 1",
+length: 2,
+bandId: 5,
+albumId: 1
+},
+{
+id: 14,
+name: "Nome do Música 2",
+length: 2,
+bandId: 5,
+albumId: 1
+},
+{
+id: 15,
+name: "Nome do Música 1",
+length: 2,
+bandId: 5,
+albumId: 2
+},
+{
+id: 16,
+name: "Nome do Música 2",
+length: 2,
+bandId: 5,
+albumId: 2
+},
+{
+id: 17,
+name: "Nome do Música 1",
+length: 2,
+bandId: 6,
+albumId: 1
+},
+{
+id: 18,
+name: "Nome do Música 2",
+length: 2,
+bandId: 6,
+albumId: 1
+},
+{
+id: 19,
+name: "Nome do Música 1",
+length: 2,
+bandId: 6,
+albumId: 2
+},
+{
+id: 20,
+name: "Nome do Música 2",
+length: 2,
+bandId: 6,
+albumId: 2
+}
+]
 }
