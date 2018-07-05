@@ -4,21 +4,14 @@
       "id": 1,
       "name": "Som Laranja",
       "category": 1,
-      "members": [
-          {"nome":"Roberto Frejat"}, 
-          {"nome":"Cazuza"}, 
-          {"nome" :"Fernando Magalhães"}
-      ],
+      "members": ["Roberto Frejat", "Cazuza", "Fernando Magalhães"],
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
     },
     {
       "id": 2,
       "name": "Marca-passo Orgânico",
       "category": 1,
-      "members": [
-          {"nome": "Herbert Vianna"}, 
-          {"nome": "Bi Ribeiro"}, 
-          {"nome": "João Barone"}
+      "members": [ "Herbert Vianna", "Bi Ribeiro", "João Barone"}
         ],
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
     },
@@ -26,40 +19,28 @@
       "id": 3,
       "name": "Nunca Beijei de Mochila",
       "category": 2,
-      "members": [
-          {"nome": "Nick Mason"}, 
-          {"nome": "Syd Barrett"}
-        ],
+      "members": ["Nick Mason", "Syd Barrett"],
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
     },
     {
       "id": 4,
       "name": "Dezenas de Dúzias",
       "category": 2,
-      "members": [
-          {"nome": "David Gilmour"}, 
-          {"nome": "Roger Waters"}
-        ],
+      "members": [ "David Gilmour", "Roger Waters"],
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
     },
     {
       "id": 5,
       "name": "Meyota",
       "category": 3,
-      "members": [
-          {"nome": "Lars Ulrich"}, 
-          {"nome": "Hetfield Gilmour"}
-        ],
+      "members": [ "Lars Ulrich", "Hetfield Gilmour"],
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
     },
     {
       "id": 6,
       "name": "Pradaria Gourmet",
       "category": 3,
-      "members": [
-          {"nome": "James Hetfield"}, 
-          {"nome": "Kirk Hammett"}
-        ],
+      "members": [ "James Hetfield", "Kirk Hammett"],
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
     }
   ],
