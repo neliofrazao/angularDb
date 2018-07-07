@@ -1,4 +1,17 @@
 {
+  "user" : [
+    {
+      "id": 1,
+      "name" : "Silva Chefe",
+      "permission" : true
+    },
+    
+    {
+      "id": 2,
+      "name" : "Souza Subordinado",
+      "permission" : false
+    },
+  ]
   "bands": [
     {
       "id": 1,
