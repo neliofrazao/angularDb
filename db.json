@@ -1,253 +1,44 @@
 {
-  "user" : [
-    {
-      "id": 1,
-      "name" : "Silva Chefe",
-      "permission" : true
-    },
-    
-    {
-      "id": 2,
-      "name" : "Souza Subordinado",
-      "permission" : false
-    }
-  ],
-  "bands": [
-    {
-      "id": 1,
-      "name": "Som Laranja",
-      "category": 1,
-      "members": [
-          {"nome":"Roberto Frejat"}, 
-          {"nome":"Cazuza"}, 
-          {"nome" :"Fernando Magalhães"}
-      ],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 2,
-      "name": "Marca-passo Orgânico",
-      "category": 1,
-      "members": [
-          {"nome": "Herbert Vianna"}, 
-          {"nome": "Bi Ribeiro"}, 
-          {"nome": "João Barone"}
-        ],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 3,
-      "name": "Nunca Beijei de Mochila",
-      "category": 2,
-      "members": [
-          {"nome": "Nick Mason"}, 
-          {"nome": "Syd Barrett"}
-        ],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 4,
-      "name": "Dezenas de Dúzias",
-      "category": 2,
-      "members": [
-          {"nome": "David Gilmour"}, 
-          {"nome": "Roger Waters"}
-        ],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 5,
-      "name": "Meyota",
-      "category": 3,
-      "members": [
-          {"nome": "Lars Ulrich"}, 
-          {"nome": "Hetfield Gilmour"}
-        ],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    },
-    {
-      "id": 6,
-      "name": "Pradaria Gourmet",
-      "category": 3,
-      "members": [
-          {"nome": "James Hetfield"}, 
-          {"nome": "Kirk Hammett"}
-        ],
-      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet lobortis sapien. Integer aliquam vestibulum nisl, aliquet rutrum leo ornare eget. Proin molestie nunc id tempus hendrerit"
-    }
-  ],
-  "albums": [
-    {
-      "id": 1,
-      "name": "Nome do álbum 1",
-      "bandId": 3
-    },
-    {
-      "id": 2,
-      "name": "Nome do álbum 2",
-      "bandId": 3
-    },
-    {
-      "id": 3,
-      "name": "Nome do álbum 1",
-      "bandId": 1
-    },
-    {
-      "id": 4,
-      "name": "Nome do álbum 2",
-      "bandId": 1
-    },
-    {
-      "id": 5,
-      "name": "Nome do álbum 1",
-      "bandId": 2
-    },
-    {
-      "id": 6,
-      "name": "Nome do álbum 2",
-      "bandId": 2
-    }
-  ],
-  "music": [
+    "char" : [
       {
-        "id": 1,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 1,
-        "albumId": 1
+        "name" : "Luke Skywalker",
+        "url" : "https://i.imgur.com/EtM6DSR.jpg"
       },
       {
-        "id": 2,
-        "name": "Nome do Música 2",
-        "length": 3,
-        "bandId": 1,
-        "albumId": 1        
+        "name" : "C-3PO",
+        "url" : "https://i.imgur.com/C7VL1Jn.jpg"
       },
       {
-        "id": 3,
-        "name": "Nome do Música 1",
-        "length": 1,
-        "bandId": 1,
-        "albumId": 2        
+        "name" : "R2-D2",
+        "url" : "https://i.imgur.com/K8sCleA.jpg"
       },
       {
-        "id": 4,
-        "name": "Nome do Música 2",
-        "length": 1,
-        "bandId": 1,
-        "albumId": 2        
+        "name" : "Darth Vader",
+        "url" : "https://i.imgur.com/G0i9MWX.jpg"
       },
       {
-        "id": 5,
-        "name": "Nome do Música 1",
-        "length": 5,
-        "bandId": 2,
-        "albumId": 1        
+        "name" : "Leia Organa",
+        "url" : "https://i.imgur.com/bQfd0Sk.jpg"
       },
       {
-        "id": 6,
-        "name": "Nome do Música 2",
-        "length": 5,
-        "bandId": 2,
-        "albumId": 1        
+        "name" : "Owen Lars",
+        "url" : "https://i.imgur.com/jFo4yWZ.jpg"
       },
       {
-        "id": 7,
-        "name": "Nome do Música 1",
-        "length": 5,
-        "bandId": 2,
-        "albumId": 2        
+        "name" : "Beru Whitesun lars",
+        "url" : "https://i.imgur.com/4QQ5b7M.jpg"
       },
       {
-        "id": 8,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 3,
-        "albumId": 2        
+        "name" : "R5-D4",
+        "url" : "https://i.imgur.com/BhEai9B.jpg"
       },
       {
-        "id": 9,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 4,
-        "albumId": 1        
+        "name" : "Biggs Darklighter",
+        "url" : "https://i.imgur.com/FGz2vsI.jpg"
       },
       {
-        "id": 10,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 4,
-        "albumId": 1        
-      },
-      {
-        "id": 11,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 4,
-        "albumId": 2
-      },
-      {
-        "id": 12,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 4,
-        "albumId": 2
-      },
-      {
-        "id": 13,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 5,
-        "albumId": 1
-      },
-      {
-        "id": 14,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 5,
-        "albumId": 1
-      },
-      {
-        "id": 15,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 5,
-        "albumId": 2
-      },
-      {
-        "id": 16,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 5,
-        "albumId": 2
-      },
-      {
-        "id": 17,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 6,
-        "albumId": 1
-      },
-      {
-        "id": 18,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 6,
-        "albumId": 1
-      },
-      {
-        "id": 19,
-        "name": "Nome do Música 1",
-        "length": 2,
-        "bandId": 6,
-        "albumId": 2
-      },
-      {
-        "id": 20,
-        "name": "Nome do Música 2",
-        "length": 2,
-        "bandId": 6,
-        "albumId": 2
-      }   
-  ] 
-}
+        "name" : "Obi-Wan Kenobi",
+        "url" : "https://i.imgur.com/W86rs82.jpg"
+      }
+    ]
+  }
